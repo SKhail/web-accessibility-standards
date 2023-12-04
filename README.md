@@ -18,6 +18,7 @@ The client (Marketing Agency) has specifically requested that their website adhe
 
 1.  Clone the repository to your local machine using:
     git clone https://github.com/SKhail/web-accessibility-standards.git
+    cd web-accessibility-standards
 2.  Test and make countinous improvements by running accessbility checks to maintain
     standards, ensuring it follow semantic HTML for optimized search engine performance.
 
