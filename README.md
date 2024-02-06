@@ -21,6 +21,11 @@ The client (Marketing Agency) has specifically requested that their website adhe
     cd web-accessibility-standards
 2.  Test and make countinous improvements by running accessbility checks to maintain
     standards, ensuring it follow semantic HTML for optimized search engine performance.
+3.  Access the deployed application [Deployed Site Link] https://skhail.github.io/web-accessibility-standards/
+4.  You will have it in your local machines and can start the Application.
+5.  Refer to the screenshot below to see the application
+
+    <img src="assets/images/screenshot.png" alt="Web-Accessibility-Standards" />
 
 ### External Resources
 
